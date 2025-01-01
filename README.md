@@ -10,4 +10,4 @@ Features
 
 Future Plans
 -Persistent storage for expenses.
--Advanced filtering and export options.
+-Advanced filtering and export options..
