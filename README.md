@@ -1,4 +1,5 @@
 # Smart-Expense-Tracker
+![IMAGEE-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/81d52694-e7fb-4d7b-aa6b-99a23a26dadb)
 
 The Smart Expense Tracker is a simple Java application for managing personal expenses. It provides essential features for tracking, categorizing, and analyzing expenses through an interactive menu.
 
